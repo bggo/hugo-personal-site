@@ -1,18 +1,11 @@
 baseURL: "http://example.org/"
 languageCode: "en-us"
-title: "BGGO - Bruno Gurgel Gomes de Oliveira"
+title: "Bruno Gurgel Gomes de Oliveira (@bggo)"
 theme: "toha"
 
 params:
   # enableBlogPost: true
   background: "assets/images/bg.png"
-  customMenus:
-    - name: Linkein
-      url: https://www.linkedin.com/in/bggoliveira/
-    - name: GitHub
-      url: https://github.com/bggo
-    - name: Medium
-      url: https://medium.com/@brunogurgel
   author:
     name: "Bruno Gurgel"
     image: "assets/images/brunogurgel.jpeg"
