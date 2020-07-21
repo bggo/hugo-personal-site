@@ -1,0 +1,30 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "BGGO - Bruno Gurgel Gomes de Oliveira"
+theme: "toha"
+
+params:
+  enableBlogPost: true
+  background: "assets/images/bg.png"
+  customMenus:
+    - name: Linkein
+      url: https://www.linkedin.com/in/bggoliveira/
+    - name: GitHub
+      url: https://github.com/bggo
+    - name: Medium
+      url: https://medium.com/@brunogurgel
+  author:
+    name: "Bruno Gurgel"
+    image: "assets/images/brunogurgel.jpeg"
+    # give your some contact information. they will be used in the footer
+    contactInfo:
+      email: "bruno.gurgel@gmail.com"
+    # a summary of what you do
+    summary:
+      - I am a Technology Evangelist
+      - I work with Digital Transformation
+      - I passionate about value aggregation tru IT
+      - I've been in a huge personal transformation
+      - I believe that companies must have bigger purposes on society
+      - I'm willing to help you in your digital challenges
+      - I'm willing to help you transform our world
