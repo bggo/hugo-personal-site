@@ -1,0 +1,76 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Engineering Director
+# your company information
+company:
+  name: Ambev
+  url: "https://www.ambev.com.br"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I'm a results driven professional looking forward to use some of my experience in IT to help companies to grow thru knowledge, people skills and a lot of collaboration. As many in our generation, I believe that companies must have bigger purposes on society and I'm willing to help your company to create the better world we all deserve. Nowadays engaged to the huge digital transformation in a big consumer goods company, including lead mindset changes of waterfall methodologies to Agile, form formal development to DevSecOps, and deeply involved in how can we move IT culture always forward in a non-IT organization."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "bruno.gurgel@gmail.com"
+
+- name: Medium
+  icon: "fab fa-medium"
+  url: "https://medium.com/@brunogurgel"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/bggo"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/bggoliveira/"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/bggoliveira"
+
+- name: Facebook
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/bggoliveira/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 85
+  color: pink
+- name: FOSS Evangelist
+  percentage: 85
+  color: green
+- name: Fast Learner
+  percentage: 85
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

@@ -4,7 +4,7 @@ title: "BGGO - Bruno Gurgel Gomes de Oliveira"
 theme: "toha"
 
 params:
-  enableBlogPost: true
+  # enableBlogPost: true
   background: "assets/images/bg.png"
   customMenus:
     - name: Linkein
