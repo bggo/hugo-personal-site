@@ -4,6 +4,7 @@ title: "Bruno Gurgel Gomes de Oliveira (@bggo)"
 theme: "toha"
 
 params:
+  googleAnalytics: G-HL33RT3EPY
   # enableBlogPost: true
   background: "assets/images/bg.png"
   author:
