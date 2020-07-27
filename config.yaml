@@ -3,8 +3,9 @@ languageCode: "en-us"
 title: "Bruno Gurgel Gomes de Oliveira (@bggo)"
 theme: "toha"
 
+googleAnalytics: G-HL33RT3EPY
+
 params:
-  googleAnalytics: G-HL33RT3EPY
   # enableBlogPost: true
   background: "assets/images/bg.png"
   author:
