@@ -6,7 +6,7 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: Engineering Director
+designation: IT Engineering and Tooling Director
 # your company information
 company:
   name: Ambev
@@ -53,31 +53,31 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Vision
+- name: "Vision"
   percentage: 100
   color: "#9C27B0"
-- name: Strategy
+- name: "Strategy"
   percentage: 100
   color: "#5C6BC0"
-- name: Communication
+- name: "Communication"
   percentage: 85
   color: "#03A9F4"
-- name: FOSS Evangelist
+- name: "FOSS Evangelist"
   percentage: 85
   color: "#43A047"
-- name: Curiosity
+- name: "Curiosity"
   percentage: 100
   color: "#CDDC39"
-- name: Problem Solving
+- name: "Problem Solving"
   percentage: 70
   color: "#FFC107"
-- name: Business Modeling
+- name: "Business Model"
   percentage: 80
   color: "#FF9800"
-- name: Value Creation
+- name: "Value Creation"
   percentage: 70
   color: "#795548"
-- name: Worklife Harmony
+- name: "Worklife Harmony"
   percentage: 90
   color: "#CFD8DC"
 # you can also provide color code instead of pre-defined color name

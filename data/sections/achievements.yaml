@@ -11,10 +11,10 @@ section:
 achievements:
 - title: Mariage
   image: assets/images/casamento.jpg
-  summary: Best wedding ever with stand-up comedy cerimonial.
+  summary: "Best wedding ever with stand-up comedy cerimonial."
 - title: First Short Triathlon
   image: assets/images/triathlon.jpg
-  summary: Part of my life style transition.
+  summary: "Part of my life style transition."
 - title: Dog
   image: assets/images/stella.jpg
   summary: "Stella's adption!"

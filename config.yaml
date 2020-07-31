@@ -1,9 +1,9 @@
 baseURL: "http://example.org/"
 languageCode: "en-us"
-title: "Bruno Gurgel Gomes de Oliveira (@bggo)"
+title: "Bruno Gurgel (@bggo)"
 theme: "toha"
 
-googleAnalytics: G-HL33RT3EPY
+googleAnalytics: UA-240354867
 
 params:
   # enableBlogPost: true
@@ -18,8 +18,9 @@ params:
     summary:
       - I am a Technology Evangelist
       - I work with Digital Transformation
-      - I passionate about value aggregation thru technology
+      - I'm passionate about value aggregation thru technology
       - I've been in a huge personal transformation
       - I believe that companies must have bigger purposes on society
       - I'm willing to help you in your digital challenges
-      - I'm willing to help you transform our world for good
+      - I'm willing to help you transform our world with lean tech
+      - I'm willing help you to take better business decisions
