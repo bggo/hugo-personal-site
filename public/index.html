@@ -30,19 +30,7 @@
 
     
     
-        
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'G-KCZPCHNVQ5', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
 
-    
   </head>
   <body data-spy="scroll" data-target="#top-navbar" data-offset="100">
 
@@ -610,5 +598,27 @@ if (!doNotTrack) {
     <script src="/assets/js/itype.min.js"></script>
     <script src="/assets/js/github-button.js"></script>
     <script src="/assets/js/home.js"></script>
+
+    
+    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-analytics.js"></script>
+        
+    <script>
+      var firebaseConfig = {
+        apiKey: "AIzaSyCBfjJ06BUVf5lQhqlfjJfFouj6vqA-JIo",
+        authDomain: "bggo-site.firebaseapp.com",
+        databaseURL: "https://bggo-site.firebaseio.com",
+        projectId: "bggo-site",
+        storageBucket: "bggo-site.appspot.com",
+        messagingSenderId: "575622457808",
+        appId: "1:575622457808:web:2078ac6763a6d55f82f1d5",
+        measurementId: "G-SBHSRVZKDN"
+      };
+      
+      firebase.initializeApp(firebaseConfig);
+      firebase.analytics();
+    </script>
+
+
   </body>
 </html>

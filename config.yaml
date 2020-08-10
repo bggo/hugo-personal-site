@@ -3,8 +3,6 @@ languageCode: "en-us"
 title: "Bruno Gurgel (@bggo)"
 theme: "toha"
 
-googleAnalytics: G-KCZPCHNVQ5
-
 params:
   # enableBlogPost: true
   background: "assets/images/bg.png"

@@ -18,6 +18,7 @@
     {{ if .Site.GoogleAnalytics }}
         {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
+
   </head>
   <body data-spy="scroll" data-target="#top-navbar" data-offset="100">
 
@@ -59,5 +60,27 @@
     <script src="/assets/js/itype.min.js"></script>
     <script src="/assets/js/github-button.js"></script>
     <script src="/assets/js/home.js"></script>
+
+    <!-- Firebase Init and Analytics -->
+    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-analytics.js"></script>
+        <!-- Firebase Init and Analytics -->
+    <script>
+      var firebaseConfig = {
+        apiKey: "AIzaSyCBfjJ06BUVf5lQhqlfjJfFouj6vqA-JIo",
+        authDomain: "bggo-site.firebaseapp.com",
+        databaseURL: "https://bggo-site.firebaseio.com",
+        projectId: "bggo-site",
+        storageBucket: "bggo-site.appspot.com",
+        messagingSenderId: "575622457808",
+        appId: "1:575622457808:web:2078ac6763a6d55f82f1d5",
+        measurementId: "G-SBHSRVZKDN"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+      firebase.analytics();
+    </script>
+
+
   </body>
 </html>

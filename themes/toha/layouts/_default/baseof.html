@@ -12,6 +12,13 @@
     {{ if .Site.GoogleAnalytics }}
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
+
+    <!-- Firebase Init and Analytics -->
+    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-analytics.js"></script>
+
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
   </head>
 
   <body>
