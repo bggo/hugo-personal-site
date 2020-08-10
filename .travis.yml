@@ -3,6 +3,8 @@ node_js:
   - "14.5.0"
 script:
   - echo "Starting deploy!!!"
+  - pwd
+  - ls
   - npm install -g firebase-tools
   - npm install -g hugo
   - firebase deploy --token $FB_TOKEN -m "Deploy CI $(date "+%m%d%Y-%H%M")"
