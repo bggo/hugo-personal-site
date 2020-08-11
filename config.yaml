@@ -8,7 +8,6 @@ params:
   background: "assets/images/bg.png"
   author:
     name: "Bruno Gurgel"
-    nickname: "@bggo"
     image: "assets/images/brunogurgel.jpeg"
     # give your some contact information. they will be used in the footer
     contactInfo:
