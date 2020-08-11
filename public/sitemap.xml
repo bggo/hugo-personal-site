@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://brunogurgel.com.br/</loc>
+    <lastmod>2020-05-25T11:39:26-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://brunogurgel.com.br/posts/</loc>
+    <lastmod>2020-05-25T11:39:26-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://brunogurgel.com.br/posts/true-acceptance/</loc>
+    <lastmod>2020-05-25T11:39:26-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brunogurgel.com.br/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://brunogurgel.com.br/tags/</loc>
   </url>
   
 </urlset>

@@ -2,13 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bruno Gurgel (@bggo)</title>
-    <link>http://example.org/</link>
+    <link>http://brunogurgel.com.br/</link>
     <description>Recent content on Bruno Gurgel (@bggo)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 11:39:26 -0300</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://brunogurgel.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>True Acceptance</title>
+      <link>http://brunogurgel.com.br/posts/true-acceptance/</link>
+      <pubDate>Mon, 25 May 2020 11:39:26 -0300</pubDate>
+      
+      <guid>http://brunogurgel.com.br/posts/true-acceptance/</guid>
+      <description>The journey of constant learning It&amp;rsquo;s been almost 2 year that I decided to give myself a different life. Not a life with limitations, or without the things that gives me most pleasure, materially and spiritually, but a life full of awareness, seeking my true purposes.
+I never gave personal habits truly importance. In every single aspect, I didn&amp;rsquo;t have time to stop what I was doing to plan, think or even understand the colateral effects of my daily actions.</description>
+    </item>
     
   </channel>
 </rss>
