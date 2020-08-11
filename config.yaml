@@ -4,7 +4,7 @@ title: "Bruno Gurgel (@bggo)"
 theme: "toha"
 
 params:
-  # enableBlogPost: true
+  enableBlogPost: true
   background: "assets/images/bg.png"
   author:
     name: "Bruno Gurgel"
