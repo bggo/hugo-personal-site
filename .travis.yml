@@ -4,10 +4,6 @@ node_js:
 script:
   - echo "Starting deploy!!!!"
   - npm install -g firebase-tools
-  - npm install -g hugo
-  - sed -i 's/REPLACE/$API_TOKEN/' themes/toha/static/assets/js/fbinit.js
-  - cat themes/toha/static/assets/js/fbinit.js
-  - cat content/posts/trueacceptance.md
   - firebase deploy --token $FB_TOKEN -m "Deploy CI $(date "+%m%d%Y-%H%M")"
 after_success:
   - echo "Deploy Done"
