@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../plataform/ambevcli/.idea/ambevcli.iml" filepath="$PROJECT_DIR$/../../plataform/ambevcli/.idea/ambevcli.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hugo-personal-site.iml" filepath="$PROJECT_DIR$/.idea/hugo-personal-site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../privacy-scanner/.idea/privacy-scanner.iml" filepath="$PROJECT_DIR$/../privacy-scanner/.idea/privacy-scanner.iml" />
     </modules>
   </component>
 </project>
