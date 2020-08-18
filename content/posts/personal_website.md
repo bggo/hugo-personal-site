@@ -1,7 +1,7 @@
 ---
 title: "Deploying a personal website"
 date: 2020-08-18T17:12:21-03:00
-draft: true
+draft: false
 ---
 
 ## Part 1 of 4 - Deciding the stack

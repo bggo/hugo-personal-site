@@ -6,10 +6,20 @@
     <description>Recent content on Bruno Gurgel (@bggo)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2020 14:06:58 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 17:12:21 -0300</lastBuildDate>
     
 	<atom:link href="http://brunogurgel.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploying a personal website</title>
+      <link>http://brunogurgel.com.br/posts/personal_website/</link>
+      <pubDate>Tue, 18 Aug 2020 17:12:21 -0300</pubDate>
+      
+      <guid>http://brunogurgel.com.br/posts/personal_website/</guid>
+      <description>Part 1 of 4 - Deciding the stack  After a long time without writing some tech stuff I have decided to put my website/blog back online! Writing here was a fun task to document the process itself. Hope you enjoy.
+ Back in time I used to host my own server, either in my home or in the early beginning as a IaaS Machine on the cloud, many times as a shared VPS or a tiny machine where I could have my Debian OS, with Apache as a webserver to run some PHP code using Wordpress.</description>
+    </item>
     
     <item>
       <title>The Runners Tears</title>

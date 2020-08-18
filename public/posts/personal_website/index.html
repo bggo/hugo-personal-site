@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>The Runners Tears</title>
+    <title>Deploying a personal website</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -71,24 +71,26 @@
     <div class="author-profile ml-auto align-self-lg-center">
       <img class="rounded-circle" src='/assets/images/default-avatar.png'/>
       <h5 class="author-name">Bruno Gurgel</h5>
-      <p>July 31, 2020</p>
+      <p>August 18, 2020</p>
     </div>
 
     <div class="title">
-      <h1>The Runners Tears</h1>
+      <h1>Deploying a personal website</h1>
     </div>
 
     <div class="post-content" id="post-content">
-      <h2 id="have-you-ever-cried-during-your-favorite-exercise">Have you ever cried during your favorite exercise?</h2>
-<p>This title may sound weird to you. You may think, “Are you ok?”, “Do you need help?”, “Are you injured?” but, wait, I’ll try to make my point over the next few paragraphs.</p>
-<p>In “true acceptance” I wrote about my journey, facing all my silent beliefs to start over. Exercises will always be an important part of this life transition. Swimming, skateboarding, cross training and cycling were already part of my life in some way, but running was not. Running was just too much for me.</p>
-<p>During the transition, practice street running made me learn a lot. First, joining a street running group is much more than just practicing with fellow runners, there are many different purposes and stories to other runners. I was able to listen to them, to practice empathy and to understand everybody has their own story, happy or sad, but we are all on our own journeys. Second, I started to learn there is a lot of science in running, from breathing techniques to shoulder positioning, from the way your feet touch the ground to the direction of your hands, and I like science. Third, no matter how many miles you run you will always need to bring your focus back to you. For all this amazing knowledge a big thanks to @outrafe running crew!</p>
-<p>Running is one of the unique spots that starts with, “It will be a block, and never ends”.(<a href="https://www.imdb.com/title/tt7671064/">Brittany runs a marathon</a>)I feel challenged with every extra mile to be completed or attempt to complete it 10 seconds faster, but it will NEVER be about the finish line, at least for me. Running has been the best way I can connect myself with my body, breathing, posture, rhythm and mind. And it just does not work on a treadmill, it needs to be outside, I need to fill the wind, see people passing by, faster or slower, watch the landscape in the park or on a crowded avenue.</p>
-<p><img src="pic1.png" alt="First 10k NY — Feb 2020"></p>
-<p>While I’m running, truly connected with myself, I take the time to plan things I’ll need to do, connect the dots, be thankful for the great things I have done so far, be thoughtful for all my mistakes, challenge myself to think about what should be my best new version. While running I can face my best ideas and also my worst and darkest thoughts. Yep, we reached the point where I tell you I have once cried running.</p>
-<p>I have a strange relation with the act of crying, and it was not easy to accept. I’m still in the journey of imagining a better version of myself, to challenge myself further, to face and address all the bad thoughts in a safe spot in my mind, to get rid of my silent beliefs. I guess running has been a huge help to get myself out of my comfort zone, again in the path towards my true acceptance. Crying while running is great evidence that I’m pushing myself to exercise acceptance, getting out of my comfort zone, trying to address things in my mind that may hurt in real life, things I might never do if I was not running.</p>
-<p><img src="pic2.png" alt="5th 10k SP — Jul 2020"></p>
-<p>Finally, we need to figure out what makes us get out of our auto-pilot mode. What challenges us to create our best version, what subject in life we may not have well addressed, what we regret and what we are proud of, and this may not be easy to do while sitting on our couch or laying in our bed. All these reflections are part of my life transition and running has now taken a crucial place in it.</p>
+      <h2 id="part-1-of-4---deciding-the-stack">Part 1 of 4 - Deciding the stack</h2>
+<blockquote>
+<p>After a long time without writing some tech stuff I have decided to put my website/blog back online! Writing here was a fun task to document the process itself. Hope you enjoy.</p>
+</blockquote>
+<p>Back in time I used to host my own server, either in my home or in the early beginning as a IaaS Machine on the cloud, many times as a shared VPS or a tiny machine where I could have my Debian OS, with Apache as a webserver to run some PHP code using Wordpress.org framework. That does not require a lot of effort but, nowadays lots of things have changed.</p>
+<p>I thought that after almost 8 years would be some way to do this kind of thing in a more straightforward way, and yes, there are many ways. I decided to pick tools that I could deal less with infrastructure and cloud services and I have picked some options to abstract all this work, but that still gave me a lot of flexibility. So this is what I choose:</p>
+<p><a href="https://gohugo.io">GOHUGO.io</a> - This is a very lightweight framework to develop your site/blog, written in go, but so far I just needed to understand a little of toml, yaml and the classics of CSS, JS and HTML. Yep, it is way simpler than wordpress, but as a provocation, I never used like 10% of all the functionalities of wordpress.</p>
+<p><a href="http://firebase.google.com/">Firebase Platform</a> - I was really blind when I associate firebase as an old database or a new document store only database. I get some time to discover and run some codelabs to understand better the power of the firebase platform. As a part of GCP, Firebase platform is a full suite of tools to develop, host, analyse, integrate and other tons of cool stuff for your APPS web or mobile. Strongly suggest you read some about it. As I&rsquo;ll need to host the website, why not go PasS instead of IaaS.</p>
+<p><a href="https://travis-ci.org/">TravisCI</a> TravisCI (<a href="https://travis-ci.org/">https://travis-ci.org/</a>) - And as I&rsquo;m really up to automation, I have used travisCI to get all the code I pushed into github to a new deploy on firebase hosting, automagically. =D</p>
+<p>So having said that, I&rsquo;ll be in the next articles documenting how this journey was. Stay tuned!</p>
+<p>Ah..footnote: Zero Cost.</p>
+<p>Read this article on <a href="https://medium.com/@brunogurgel/deploying-a-personal-website-b32f06df123">Medium</a></p>
 
     </div>
 
@@ -107,36 +109,22 @@
   
 
   
-    
-      
-      <div class="col-md-6 previous-article">
-        <a href="/posts/personal_website/" class="btn btn-outline-info">
-          <span><i class="fas fa-chevron-circle-left"></i> Prev</span>
-          <br />
-          <span>Deploying a personal website</span>
-        </a>
-      </div>
-      
+
+  
     
     
       
         
         
-          
-              
-          
-        
-        <div class="col-md-6 next-article">
-          <a href="/posts/skills-of-the-future/" class="btn btn-outline-info">
+        <div class="col-md-12 next-article">
+          <a href="/posts/the-runners-tears/" class="btn btn-outline-info">
             <span>Next <i class="fas fa-chevron-circle-right"></i></span>
             <br />
-            <span>Skills of the Future</span>
+            <span>The Runners Tears</span>
           </a>
         </div>
       
     
-  
-
   
 
 </div>
