@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ambevcli" />
     <orderEntry type="module" module-name="privacy-scanner" />
+    <orderEntry type="module" module-name="my-new-site" />
   </component>
 </module>

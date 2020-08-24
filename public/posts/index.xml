@@ -6,13 +6,22 @@
     <description>Recent content in Posts on Bruno Gurgel (@bggo)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2020 17:12:21 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 15:41:50 -0300</lastBuildDate>
     
 	<atom:link href="http://brunogurgel.com.br/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deploying a personal website</title>
+      <title>Deploying a personal website 2/4</title>
+      <link>http://brunogurgel.com.br/posts/welcome_to_hugo/</link>
+      <pubDate>Mon, 24 Aug 2020 15:41:50 -0300</pubDate>
+      
+      <guid>http://brunogurgel.com.br/posts/welcome_to_hugo/</guid>
+      <description>Part 2 of 4 - Welcome to Hugo! After many years without writing in a blog, not having a space to call it mine, I have decided to understand what some tech fellows were using to handle personal pages and tech blogs. I must let you know I did not go in any deeper research, I was willing to find something easy to manage, powerful, modern but at the same time able to give some fun while learning.</description>
+    </item>
+    
+    <item>
+      <title>Deploying a personal website 1/4</title>
       <link>http://brunogurgel.com.br/posts/personal_website/</link>
       <pubDate>Tue, 18 Aug 2020 17:12:21 -0300</pubDate>
       

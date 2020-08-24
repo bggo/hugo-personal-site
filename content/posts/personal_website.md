@@ -1,5 +1,5 @@
 ---
-title: "Deploying a personal website"
+title: "Deploying a personal website 1/4"
 date: 2020-08-18T17:12:21-03:00
 draft: false
 ---
