@@ -354,3 +354,4 @@ Hope you enjoyed this journey. See you in the next chapter where we are going to
 * https://gohugo.io/getting-started/configuration/
 * https://gohugo.io/content-management/organization/
 
+Read this article on [Medium](https://medium.com/@brunogurgel/deploying-a-personal-website-2-4-b2f451b9c62c)
