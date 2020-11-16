@@ -6,10 +6,15 @@
     <description>Recent content on Bruno Gurgel (@bggo)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2020 15:41:50 -0300</lastBuildDate>
-    
-	<atom:link href="http://brunogurgel.com.br/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 15 Nov 2020 17:12:21 -0300</lastBuildDate><atom:link href="http://brunogurgel.com.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How do we learn?</title>
+      <link>http://brunogurgel.com.br/posts/how-do-we-learn/</link>
+      <pubDate>Sun, 15 Nov 2020 17:12:21 -0300</pubDate>
+      
+      <guid>http://brunogurgel.com.br/posts/how-do-we-learn/</guid>
+      <description>New positive habits that arrived with new technologies No, I was never the kind of person who reads a lot, reading was not the funniest activity of my childhood by far. I was too active to sit down and spend some hours of my day just absorbing information from a static object called a book. As some of us saw Prince Ea. video: &amp;ldquo;I SUED THE SCHOOL SYSTEM !!!&amp;quot;, and if you havent you should, we should accept that people are different and understand they have way different needs to absorb knowledge.</description>
+    </item>
     
     <item>
       <title>Deploying a personal website 2/4</title>
