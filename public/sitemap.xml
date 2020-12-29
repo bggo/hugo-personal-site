@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://brunogurgel.com.br/</loc>
-    <lastmod>2020-12-28T13:12:21-03:00</lastmod>
+    <loc>http://brunogurgel.com.br/posts/202020knowledgeandhabits/</loc>
+    <lastmod>2020-12-29T13:12:21-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://brunogurgel.com.br/posts/202020books/</loc>
-    <lastmod>2020-12-28T13:12:21-03:00</lastmod>
+    <loc>http://brunogurgel.com.br/</loc>
+    <lastmod>2020-12-29T13:12:21-03:00</lastmod>
   </url>
   
   <url>
     <loc>http://brunogurgel.com.br/posts/</loc>
+    <lastmod>2020-12-29T13:12:21-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brunogurgel.com.br/posts/202020books/</loc>
     <lastmod>2020-12-28T13:12:21-03:00</lastmod>
   </url>
   
